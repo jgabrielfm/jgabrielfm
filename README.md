@@ -5,7 +5,7 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/jgabrielfm/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="mailto:jg@moura.dev"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+  <a href="mailto:joaogabrielmourapb@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
 </p>
 
 ---
@@ -42,10 +42,11 @@
 | [**Canhoteria**](https://canhoteria.com.br) · [case](https://github.com/jgabrielfm/canhoteria) | E-commerce completo, **entregue e em operação** | Pagamento com Mercado Pago, cálculo de frete com Melhor Envio, cadastro de produtos |
 | [**Mercado de Artesanato**](https://mercadodeartesanato.com.br) · [case](https://github.com/jgabrielfm/mercado-de-artesanato) | Rede de lojas independentes de artesanato | **5 lojas ativas** (estrutura para 40 a 50), cada uma com subdomínio e banco próprios, gestão centralizada com MainWP e deploy automatizado em Bash |
 
-### Em andamento
+### Estudos
 
+- 📚 [**poo-java**](https://github.com/jgabrielfm/poo-java) — exercícios de POO em Java: herança, polimorfismo, interfaces e padrões de projeto (Template Method, Strategy, Chain of Responsibility)
+- 🗄️ [**sql-mysql**](https://github.com/jgabrielfm/sql-mysql) — exercícios de SQL no MySQL: JOINs, agregações, `GROUP BY` e `UNION`
 - ☕ **Projeto de POO em Java** — em breve aqui
-- 📚 [**poo-java**](https://github.com/jgabrielfm/poo-java) — exercícios de Programação Orientada a Objetos da faculdade
 
 ---
 
