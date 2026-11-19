@@ -15,7 +15,7 @@
 - 🎓 Cursando graduação em tecnologia, estudando **Programação Orientada a Objetos em Java**
 - 🛒 Já coloquei no ar **dois projetos de e-commerce reais**: uma loja entregue a um cliente e uma rede de lojas independentes
 - ⚙️ Em produção, opero **hospedagem compartilhada** via **SSH** e **WP-CLI**, com banco **MySQL** e integrações de **pagamento e frete**
-- 🐧 Estudo a stack **LAMP** (Linux, Apache, MySQL, PHP) para entender a fundo servidores e fluxo de dados
+- 🏭 No trabalho, num Centro de Distribuição, automatizo rotinas com **IA** a partir dos dados do ERP: uma tarefa de 2 horas por dia virou poucos minutos
 - 🔁 Automatizo tarefas repetitivas com **Bash** e **Python**
 - 🤖 Uso **IA aplicada** no meu fluxo de trabalho para acelerar desenvolvimento
 - 🎯 Buscando **estágio em back-end**
@@ -29,7 +29,6 @@
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python">
   <img src="https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white" alt="Bash">
   <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" alt="Linux">
-  <img src="https://img.shields.io/badge/Apache-D22128?style=flat-square&logo=apache&logoColor=white" alt="Apache">
   <img src="https://img.shields.io/badge/WordPress-21759B?style=flat-square&logo=wordpress&logoColor=white" alt="WordPress">
   <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git">
   <img src="https://img.shields.io/badge/IA_aplicada-6E40C9?style=flat-square&logo=openai&logoColor=white" alt="IA aplicada">
