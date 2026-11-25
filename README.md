@@ -34,12 +34,12 @@
   <img src="https://img.shields.io/badge/IA_aplicada-6E40C9?style=flat-square&logo=openai&logoColor=white" alt="IA aplicada">
 </p>
 
-### Projetos em produção
+### Projetos
 
 | Projeto | O que é | Destaques técnicos |
 |---|---|---|
 | [**Canhoteria**](https://canhoteria.com.br) · [case](https://github.com/jgabrielfm/canhoteria) | E-commerce completo, **entregue e em operação** | Pagamento com Mercado Pago, cálculo de frete com Melhor Envio, cadastro de produtos |
-| [**Mercado de Artesanato**](https://mercadodeartesanato.com.br) · [case](https://github.com/jgabrielfm/mercado-de-artesanato) | Rede de lojas independentes de artesanato | **5 lojas ativas** (estrutura para 40 a 50), cada uma com subdomínio e banco próprios, gestão centralizada com MainWP e deploy automatizado em Bash |
+| [**Mercado de Artesanato**](https://github.com/jgabrielfm/mercado-de-artesanato) | Rede de lojas independentes de artesanato (participei até out/2026) | **5 lojas no ar** (estrutura para 40 a 50), cada uma com subdomínio e banco próprios, gestão centralizada com MainWP, deploy automatizado em Bash e mais de 60 lojistas prospectados pessoalmente |
 
 ### Estudos
 
